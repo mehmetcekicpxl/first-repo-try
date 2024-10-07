@@ -12,6 +12,7 @@
         <TextBox HorizontalAlignment="Left" Margin="290,224,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="315" Height="113"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="80,199,0,0" VerticalAlignment="Top" Width="100"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="625,154,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="120,144,0,0" VerticalAlignment="Top" Height="35" Width="140"/>
 
     </Grid>
 </Window>
